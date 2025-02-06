@@ -1,5 +1,5 @@
 # Excel-Dashboard Project
- ## Excel dashboard completely on the richest people in the world
+ ##  Excel dashboard completely from scratch on the richest people in the world
   where we can filter by certain criteria, navigate across the different sections, and refresh our data.
 
   Work Flow-
@@ -13,7 +13,9 @@
    we'll make the dashboard dynamic with pivot table slicers and a navigation bar using hyperlinks so we can navigate across the different worksheets.
 
 
-  ## Screen Shot-
+  ## DashBoard-
+  ![image](https://github.com/user-attachments/assets/2fe58142-12c6-47f8-92c4-633595fc47d7)
+
 
   
 
